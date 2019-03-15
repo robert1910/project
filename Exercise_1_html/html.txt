@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Coding makes me happy</title>
+  </head>
+  <body>
+    <h1>Coding makes me happy</h1>
+    <p>Thanks to coding I can become WD <a href="http://www.sport.pl">link</a>.</p>.
+    -It takes a lot of time untl i will become WD
+    <p>Thanks to html I can build website <a href="https://www.bieganie.pl/">link</a>.</p>.
+    -Html is important in order to build webiste.
+    <p>Thanks to html I can learn how to code <a href="https://www.imdb.com/">link</a>. </p>.
+    -Html is a basic code and its very important to understand how it works.
+    
+    
+    
+    <a href="https://www.google.pl/">link</a>.
+    <img src="image.jpg" alt="sand" title="my holiday">
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Coding makes me happy</title>
+    <link rel= "stylesheet" href= "css/style.css">
+  </head>
+  <body>
+  
+  
+  <div class="content">
+    
+    <h1>Coding makes me happy</h1>
+    <h2>Thanks to coding I can become WD</h2>
+        <a href="http://www.sport.pl" target="_blank">link</a><br>
+        It takes a lot of time untl i will become WD. <br>
+        <img src="//images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="coding">
+    
+    <h3>Thanks to html I can build website</h3>
+        <a href="https://www.bieganie.pl/" target="_blank">link</a><br>
+        Html is important in order to build webiste.<br>
+        <img src="https://images.pexels.com/photos/7374/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="html" >
+    <h4>Thanks to html I can learn how to code</h4>
+        <a href="https://www.imdb.com/" target="_blank">link</a><br>
+        Html is a basic code and its very important to understand how it works
+        
+    <h5>Check my website</h5>
+        <a href="https://scr.hu/4PPOdZ1" target="_blank">link</a><br>
+    </div>
+    </body>
+</html>
